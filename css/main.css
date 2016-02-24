@@ -4,6 +4,10 @@ html {
   line-height: 1.5;
 }
 
+main {
+  margin: 1em;
+}
+
 body {
   margin: 0;
   font-family: Georgia;
