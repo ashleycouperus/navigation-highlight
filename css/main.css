@@ -3,6 +3,9 @@ html {
   background-color: #ffffff;
 }
 
+body {
+  margin: 1;
+}
 h1 {
   font-family:'Sigmar One',cursive;
   text-align: center;
@@ -59,4 +62,9 @@ footer {
   padding: .5em;
   background-color: #ffe500;
   text-align: center;
+}
+
+figure {
+  image-align: left;
+
 }
