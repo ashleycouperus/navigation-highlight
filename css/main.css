@@ -20,14 +20,43 @@ h1 {
 .info-boxes li {
   display: inline-block;
   margin: .1em;
-  padding: 1em;
+  padding: .3em;
   background-color: #b2a212;
   border-radius: 5px;
   max-width: 20em;
+}
+
+.info-boxes li:hover {
+  background-color: #b20953;
 }
 
 .berry {
   font-family:'Sigmar One', cursive;
   font-size: 1.875rem;
   color: #b20953;
+}
+
+ul {
+  color: #fff;
+  font-size: 1.125rem;
+}
+
+p {
+  font-size: 1.125rem;
+}
+
+header {
+  display: block;
+  margin: 0em;
+  padding: .2em;
+  background-color: #ffe500;
+}
+
+footer {
+  font-size: 0.75rem;
+  display: block;
+  margin: 0em;
+  padding: .5em;
+  background-color: #ffe500;
+  text-align: center;
 }
